@@ -63,12 +63,11 @@ class MESH(object):
 		self.root_concept_ids.append(inner_words[0])                           # This code is part of a conditional statement that checks whether the length of the inner_words list is equal to 1. If the length is 1, it indicates that the current concept is a root concept, meaning it has no parent in the ontology hierarchy.
 	    else:
 		parent_id = ".".join(inner_words[:-1])                                 #The line of code parent_id = ".".join(inner_words[:-1]) constructs the parent concept ID by joining all elements of the inner_words list except the last one using a dot . as a separator.
-                self.ontology.add_edge(parent_id, concept_id)                           Let's break it down step by step:
-                self.ontology.add_edge(parent_id, concept_id)
-	    return self.ontology                                                        inner_words: This is a list that contains the individual components of the concept_id split using the dot . delimiter. For example, if concept_id is "C0011849.123.456", then inner_words would be ["C0011849", "123", "456"].
-                                                                                        inner_words[:-1]: This uses slicing to create a new list that contains all elements of inner_words except the last one. In our example, inner_words[:-1] would be ["C0011849", "123"].
-                                                                                        ".".join(inner_words[:-1]): This joins the elements of the sliced inner_words list using the dot . as a separator. In our example, it would produce the string "C0011849.123".
-                                                                                        So, in the context of your code, this line is creating the parent_id by combining the first part of the concept_id (representing the parent concept) with the dot-separated components that identify its position in the hierarchy. The resulting parent_id string represents the concept ID of the parent concept in the ontology.
+                self.ontology.add_edge(parent_id, concept_id)                          #Let's break it down step by step:
+                return self.ontology                                                   #inner_words: This is a list that contains the individual components of the concept_id split using the dot . delimiter. For example, if concept_id is "C0011849.123.456", then inner_words would be ["C0011849", "123", "456"].
+                                                                                       #inner_words[:-1]: This uses slicing to create a new list that contains all elements of inner_words except the last one. In our example, inner_words[:-1] would be ["C0011849", "123"].
+                                                                                       #".".join(inner_words[:-1]): This joins the elements of the sliced inner_words list using the dot . as a separator. In our example, it would produce the string "C0011849.123".
+                                                                                       #So, in the context of your code, this line is creating the parent_id by combining the first part of the concept_id (representing the parent concept) with the dot-separated components that identify its position in the hierarchy. The resulting parent_id string represents the concept ID of the parent concept in the ontology.
         self.ontology.add_edge(parent_id, concept_id)
 	return self.ontology
 
