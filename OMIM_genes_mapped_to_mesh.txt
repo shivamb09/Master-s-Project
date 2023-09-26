@@ -1,0 +1,164 @@
+pheochromocytoma: 23095,6390,7428,5979,6392
+fucosidosis: 2517
+macrostomia: 100529231
+basal cell nevus syndrome: 8643,5727,51684
+porphyria, hepatoerythropoietic: 7389
+porphyria cutanea tarda: 7389
+dihydropyrimidine dehydrogenase deficiency: 1806
+hajdu-cheney syndrome: 4853
+pycnodysostosis: 1513
+ichthyosis vulgaris: 2312
+neural tube defects: 57216
+budd-chiari syndrome: 2153
+factor v deficiency: 2153
+pelger-huet anomaly: 3930
+chediak-higashi syndrome: 1130
+prune belly syndrome: 1131
+cystinuria: 6519,11136
+schizencephaly: 6496,6469,2018
+muir-torre syndrome: 4436,4292
+ovarian hyperstimulation syndrome: 2492
+alstrom syndrome: 7840
+synesthesia: 100301527
+small fiber neuropathy: 6335
+moyamoya disease: 50960
+biotinidase deficiency: 686
+gray platelet syndrome: 23218
+alkaptonuria: 3081
+dandy-walker syndrome: 1858
+cerebellar ataxia: 1356
+lipoma: 4026
+achondroplasia: 2261
+cherubism: 6452
+huntington disease: 3064
+ellis-van creveld syndrome: 132884,2121
+mastocytosis, cutaneous: 3815
+piebaldism: 3815,6591
+abetalipoproteinemia: 4547
+aspartylglucosaminuria: 175
+hyperprolactinemia: 5618
+gardner syndrome: 324
+adenomatous polyposis coli: 324
+netherton syndrome: 11005
+tetralogy of fallot: 1482,2626,23414,2627,182,6899
+sotos syndrome: 64324
+factor xii deficiency: 2161
+hemochromatosis: 3077
+granulomatosis with polyangiitis: 474168
+cleidocranial dysplasia: 860
+pallister-hall syndrome: 2737
+mucopolysaccharidosis vii: 2990
+argininosuccinic aciduria: 435
+charge syndrome: 9723,55636
+osteoporosis, postmenopausal: 1278
+cystic fibrosis: 1080
+diabetes mellitus, type 2: 5078
+hypertension, pregnancy-induced: 4846
+wolff-parkinson-white syndrome: 51422
+farber lipogranulomatosis: 427
+scurvy: 2989
+werner syndrome: 7486
+nijmegen breakage syndrome: 4683
+klippel-trenaunay-weber syndrome: 791122
+chondrosarcoma: 2131
+melkersson-rosenthal syndrome: 8011
+friedreich ataxia: 2395
+tangier disease: 19
+dysautonomia, familial: 8518
+medulloblastoma: 8518,675
+nail-patella syndrome: 4010
+citrullinemia: 445
+lymphangioleiomyomatosis: 7248
+refsum disease: 5264
+lymphoma, non-hodgkin: 5551
+meningioma: 5728,4330
+autoimmune lymphoproliferative syndrome: 355
+wolman disease: 3988
+costello syndrome: 3265
+beckwith-wiedemann syndrome: 105259599,10984,1028
+niemann-pick disease, type b: 6609
+niemann-pick disease, type a: 6609
+optic nerve hypoplasia: 5080
+aniridia: 5080
+keratitis: 5080
+frasier syndrome: 7490
+denys-drash syndrome: 7490
+osteoporosis: 100188854,4041,100188853
+osteosclerosis: 4041
+smith-lemli-opitz syndrome: 1717
+retinopathy of prematurity: 8322
+porphyria, acute intermittent: 3145
+von willebrand disease, type 1: 7450
+von willebrand disease, type 3: 7450
+meconium ileus: 2984
+legg-calve-perthes disease: 1280
+monilethrix: 3892,3887,3889
+ichthyosis bullosa of siemens: 3849
+darier disease: 488
+wilms tumor: 675
+rhabdomyosarcoma, alveolar: 2308
+retinoblastoma: 5925
+gastroesophageal reflux: 59330
+tourette syndrome: 114798
+factor vii deficiency: 2155
+factor x deficiency: 2159
+machado-joseph disease: 4287
+prader-willi syndrome: 4692,6638
+angelman syndrome: 7337
+marfan syndrome: 2200
+tay-sachs disease: 3073
+acrocallosal syndrome: 374654
+bloom syndrome: 641
+pseudoxanthoma elasticum: 368
+orthostatic intolerance: 6530
+gitelman syndrome: 6559
+canavan disease: 443
+riboflavin deficiency: 55065
+li-fraumeni syndrome: 7157
+osteosarcoma: 7157
+birt-hogg-dube syndrome: 201163
+smith-magenis syndrome: 10743
+sjogren-larsson syndrome: 224
+steatocystoma multiplex: 3872
+aphasia, primary progressive: 2896
+alexander disease: 2670
+supranuclear palsy, progressive: 4137
+thrombocytopenia, neonatal alloimmune: 3690
+mulibrey nanism: 4591
+pierre robin syndrome: 100301572
+andersen syndrome: 3759
+campomelic dysplasia: 6662
+epidermodysplasia verruciformis: 11322
+pityriasis rubra pilaris: 79092
+sarcoma, synovial: 6760,6756,6757
+peutz-jeghers syndrome: 6794
+liposarcoma: 8177
+laurence-moon syndrome: 10908
+cryptorchidism: 3640
+prolidase deficiency: 5184
+insomnia, fatal familial: 5621
+cerebral amyloid angiopathy: 1471
+pseudopseudohypoparathyroidism: 2778
+myokymia: 3785
+holocarboxylase synthetase deficiency: 3141
+sneddon syndrome: 51816
+digeorge syndrome: 6899
+insulinoma: 282551
+ichthyosis, x-linked: 412
+retinoschisis: 6247
+coffin-lowry syndrome: 6197
+aicardi syndrome: 192
+focal dermal hypoplasia: 64840
+wiskott-aldrich syndrome: 7454
+choroideremia: 1121
+fabry disease: 2717
+pelizaeus-merzbacher disease: 5354
+lesch-nyhan syndrome: 3251
+hemophilia b: 2158
+fragile x syndrome: 2332
+mucopolysaccharidosis ii: 3423
+adrenoleukodystrophy: 215
+rett syndrome: 4204
+barth syndrome: 6901
+incontinentia pigmenti: 8517
+hemophilia a: 2157
