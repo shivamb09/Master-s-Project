@@ -68,15 +68,17 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
 # parsing the file because it will contain duplicates due to more than one concept_id for a concept:
-# Read the input file
+
+
+
 with open('final_genes.txt', 'r') as file:
     lines = file.readlines()
 
-# Create a dictionary to store disease names as keys and genes as values
 disease_genes = {}
 
-# Parse the input file and store genes under their respective disease names
 for line in lines:
     parts = line.strip().split(':')
     if len(parts) == 2:
@@ -87,11 +89,9 @@ for line in lines:
         else:
             disease_genes[disease_name] = genes
 
-# Remove duplicates from gene lists
 for disease_name in disease_genes:
     disease_genes[disease_name] = list(set(disease_genes[disease_name]))
 
-# Write the result to a new file
 with open('before_15_genes_screening.txt', 'w') as file:
     for disease_name, genes in disease_genes.items():
         file.write(f'{disease_name}: {", ".join(genes)}\n')
